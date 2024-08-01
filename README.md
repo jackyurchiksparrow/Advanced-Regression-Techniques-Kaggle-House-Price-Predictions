@@ -34,11 +34,11 @@
     * [Experimenting with the test size](#d-experimenting-with-the-test-size)
 11. [Fine-tuning the models](#11-fine-tuning-the-models)
 12. [Ensembling](#12-ensembling)
-13. [Conclusion](#conclusion)
+13. [Conclusion](#13-conclusion)
 14. [Submission](#14-submission)
 15. [File structure and description](#15-file-structure-and-description)
-16. [About author](#about-author)
-17. [References](#references)
+16. [About author](#16-about-author)
+17. [References](#17-references)
 
 
 ## Introduction
